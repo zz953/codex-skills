@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Picture"
+  short_description: "Search and verify matches in local photo collections"
+  default_prompt: "用 $find-picture 根据参考图和号码布筛查这个相册，复查相邻连拍并整理原片。"
