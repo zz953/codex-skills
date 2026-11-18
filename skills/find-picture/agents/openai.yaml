@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Picture"
+  short_description: "Search and verify matches in local photo collections"
+  default_prompt: "Use $find-picture to search this photo collection using reference photos and bib numbers, review nearby frames, and copy the matching originals."
